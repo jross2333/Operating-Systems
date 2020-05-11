@@ -7,3 +7,8 @@ Another function of an operating system is device management.
 Device managers control all the of the computer's hardware.
 This includes keybpards, mouse, printers and any device connected to the computer.
 Device managers get help from the device drivers and controllers to efficiently allocate the devices.
+
+Memory management is another very important function of an operating system.
+Memory management is the control of the Main Memory, or RAM.
+It designates memory to a process that requests it, and keeps track of what memory is free or being used.
+When multiple programs are running, the memory management decides what and when process get memory.
