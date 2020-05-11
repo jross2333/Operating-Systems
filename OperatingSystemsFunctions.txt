@@ -2,3 +2,8 @@ A main function of an operating system is file management.
 File management includes creating new files, locating existing files, and where/how files are stored.
 The file manager follows the operating systems' allocation policies.
 It also keeps a record of what users can access which files.
+
+Another function of an operating system is device management.
+Device managers control all the of the computer's hardware.
+This includes keybpards, mouse, printers and any device connected to the computer.
+Device managers get help from the device drivers and controllers to efficiently allocate the devices.
